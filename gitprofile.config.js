@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'filippo-de-grandi',
+    linkedin: 'filippo-de-grandi-226198224',
     instagram: 'filippodegra',
     telegram: 'degradegradegra',
     email: 'filippodegrandi02@gmail.com',
