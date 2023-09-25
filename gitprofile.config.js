@@ -27,6 +27,7 @@ const config = {
     'Java',
     'JavaScript',
     'Git',
+    'Linux',
   ],
   experiences: [
   ],
